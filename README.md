@@ -4,21 +4,21 @@ On this webpage you can find my published and not yet published articles, softwa
 
 __Selected publications:__
 
-x(1-t(x+x^{-1}) F(x;t) = x - tF(0;t)
+- x(1-t(x+x^{-1}) F(x;t) = x - tF(0;t)
 
 - Separating variables on plane algebraic curves
 
-Separating variables on plane algebraic curves: the local case 
+- Separating variables on plane algebraic curves: the local case 
 
-Separated variables on plane algebraic curves 
+- Separated variables on plane algebraic curves 
 
-On finite orbits of infinite correspondences
+- On finite orbits of infinite correspondences
 
-The orbit-sum method for higher order equations
+- The orbit-sum method for higher order equations
 
-The Newton-Puiseux algorithm and effective algebraic series 
+- The Newton-Puiseux algorithm and effective algebraic series 
 
-Inhomogeneous Restricted Lattice Walks
+- Inhomogeneous Restricted Lattice Walks
 
 __Other publications:__
 
