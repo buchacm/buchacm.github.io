@@ -16,7 +16,7 @@ __Selected publications:__
 
 - The orbit-sum method for higher order equations
 
-- The Newton-Puiseux algorithm and effective algebraic series 
+- The Newton-Puiseux algorithm and effective algebraic series. <a href="https://arxiv.org/abs/2209.00875" target="_blank" rel="noopener"> [arXiv] </a>
 
 - Inhomogeneous Restricted Lattice Walks
 
