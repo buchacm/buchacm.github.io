@@ -14,7 +14,7 @@ __Selected publications:__
 
 - On finite orbits of infinite correspondences. <a href="https://arxiv.org/abs/2511.07172" target="_blank" rel="noopener"> [arXiv] </a>
 
-- The orbit-sum method for higher order equations
+- The orbit-sum method for higher order equations. <a href="https://arxiv.org/abs/2211.08175" target="_blank" rel="noopener"> [arXiv] </a>
 
 - The Newton-Puiseux algorithm and effective algebraic series. <a href="https://arxiv.org/abs/2209.00875" target="_blank" rel="noopener"> [arXiv] </a>
 
