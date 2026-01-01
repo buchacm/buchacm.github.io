@@ -18,7 +18,7 @@ __Selected publications:__
 
 - The Newton-Puiseux algorithm and effective algebraic series. <a href="https://arxiv.org/abs/2209.00875" target="_blank" rel="noopener"> [arXiv] </a>
 
-- Inhomogeneous Restricted Lattice Walks
+- Inhomogeneous Restricted Lattice Walks. <a href="https://https://arxiv.org/abs/1811.06725" target="_blank" rel="noopener"> [arXiv] </a>
 
 __Other publications:__
 
