@@ -26,7 +26,8 @@ These problems, and the question how the semi-algorithms for their treatment can
 
 The orbit-sum method is a method that has played an important role in the enumeration of lattice walks of walks with small steps. This paper generalizes it to walks with large steps.  
 
-- The Newton-Puiseux algorithm and effective algebraic series <a href="https://arxiv.org/abs/2209.00875" target="_blank" rel="noopener"> [arXiv] </a>
+- The Newton-Puiseux algorithm and effective algebraic series <a href="https://www.sciencedirect.com/science/article/pii/S0021869325005642" target="_blank" rel="noopener"> [link] </a>\
+  Journal of Algebra, 688, 284-306, 2026
 
 This generalization relies on a thorough understanding of the Newton-Puiseux algorithm. This paper discusses, among other things, how it can be used to encode algebraic series and derive information about the convex hull of their support.
 
