@@ -14,6 +14,8 @@ permalink: /presentations/
 
 - Separating variables in bivariate polynomial ideals
 
+  Séminaire de Calcul Formel, Sorbonne Université, Paris, and Inria Saclay, Palaiseau, France, Online, April 2021
+
 - The orbit-sum method for higher order equations 
 
 - The Newton-Puiseux algorithm and effective algebraic series
