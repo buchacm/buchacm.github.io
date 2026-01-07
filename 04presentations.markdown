@@ -19,7 +19,7 @@ permalink: /presentations/
 - The orbit-sum method for higher order equations
 
   <a href="https://github.com/buchacm/slides/blob/main/ACA2021.pdf" target="_blank" rel="noopener"> [slides] </a>
-  ACA 2021, Warsaw, Poland, 2021
+  Applications of computer algebra -- ACA 2021, Warsaw, Poland, 2021
 
 - The Newton-Puiseux algorithm and effective algebraic series
 
