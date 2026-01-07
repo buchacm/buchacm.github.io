@@ -26,4 +26,8 @@ permalink: /presentations/
 
 - Rigorosum / PhD defense 
 
+---
+layout: page
 title: Posters
+permalink: /presentations/
+---
