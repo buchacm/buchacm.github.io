@@ -15,7 +15,6 @@ permalink: /presentations/
 
   <a href="https://github.com/buchacm/slides/blob/main/aca2025separatedVariables.pdf" target="_blank" rel="noopener"> [slides] </a>
   Applications of computer algebra -- ACA 2025, Heraklion, Greece, 2025
-  
 
 - Separating variables in bivariate polynomial ideals: the local case
 
@@ -36,7 +35,10 @@ permalink: /presentations/
 
 - Quadrant walks starting outside the quadrant
 
-- Inhomogeneous lattice walks 
+- Inhomogeneous lattice walks
+
+  <a href="https://github.com/buchacm/slides/blob/main/bern2019.pdf" target="_blank" rel="noopener"> [slides] </a>
+  SIAM AG 2019, Bern, Switzerland
 
 - Algorithms for the enumeration of lattice walks
   
