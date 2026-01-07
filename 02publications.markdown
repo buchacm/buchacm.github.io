@@ -41,8 +41,7 @@ __Other publications:__
 - Quadrant walks starting outside the quadrant <a href="https://arxiv.org/abs/2011.13373" target="_blank" rel="noopener"> [arXiv] </a>
 
 - Walks with small steps in the 4D-orthant
-<a href="https://link.springer.com/article/10.1007/s00026-020-00520-5" target="_blank" rel="noopener"> [link] </a>
-- <a href="https://arxiv.org/abs/2004.14238" target="_blank" rel="noopener"> [arXiv] </a>\
+<a href="https://link.springer.com/article/10.1007/s00026-020-00520-5" target="_blank" rel="noopener"> [link] </a> <a href="https://arxiv.org/abs/2004.14238" target="_blank" rel="noopener"> [arXiv] </a>\
   with Sophie Hofmanninger and Manuel Kauers\
   Annals of Combinatorics, 25, 153–166, 2021
 
