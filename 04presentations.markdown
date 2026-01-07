@@ -24,7 +24,7 @@ permalink: /presentations/
 
 - Inhomogeneous lattice walks 
 
-- Rigorosum / PhD defense
+- Algorithms for the enumeration of lattice walks
   
- <a href="https://github.com/buchacm/slides/blob/main/rigorosumBuchacher.pdf" target="_blank" rel="noopener"> [slides] </a> PhD defence, JKU Linz, Linz, Austria, November 2021
+  <a href="https://github.com/buchacm/slides/blob/main/rigorosumBuchacher.pdf" target="_blank" rel="noopener"> [slides] </a> PhD defence, JKU Linz, Linz, Austria, November 2021
   
