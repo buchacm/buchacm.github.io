@@ -25,9 +25,3 @@ permalink: /presentations/
 - Inhomogeneous lattice walks 
 
 - Rigorosum / PhD defense 
-
----
-layout: page
-title: Posters
-permalink: /presentations/
----
