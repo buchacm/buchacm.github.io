@@ -42,5 +42,8 @@ __Other publications:__
 
 - Walks with small steps in the 4D-orthant <a href="https://arxiv.org/abs/2004.14238" target="_blank" rel="noopener"> [arXiv] </a>
 
-- Graph learning based on total variation <a href="https://ieeexplore.ieee.org/document/8461603" target="_blank" rel="noopener"> [IEEE] </a>
+- Graph learning based on total variation minimization <a href="https://ieeexplore.ieee.org/document/8461603" target="_blank" rel="noopener"> [link] </a>\
+  with Peter Berger, Gabor Hannak and Gerald Matz\
+  Proceedings of the IEEE International Conference on Acoustics, Speech and Signal Processing, 6309-6313, 2018 
+  
 
