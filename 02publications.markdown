@@ -44,6 +44,6 @@ __Other publications:__
 
 - Graph learning based on total variation minimization <a href="https://ieeexplore.ieee.org/document/8461603" target="_blank" rel="noopener"> [link] </a>\
   with Peter Berger, Gabor Hannak and Gerald Matz\
-  Proceedings of the IEEE International Conference on Acoustics, Speech and Signal Processing, 6309-6313, 2018 
+  IEEE International Conference on Acoustics, Speech and Signal Processing, 6309-6313, 2018 
   
 
