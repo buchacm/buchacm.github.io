@@ -39,6 +39,7 @@ __Other publications:__
 - On the problem of separating variables in multivariate polynomial ideals <a href="https://arxiv.org/abs/2405.19223" target="_blank" rel="noopener"> [arXiv] </a>
 
 - Quadrant walks starting outside the quadrant <a href="https://www.mat.univie.ac.at/~slc/wpapers/FPSAC2021/26Buchacher.pdf" target="_blank" rel="noopener"> [link] </a>\
+ with Manuel Kauers and Amélie Trotignon\
  Séminaire Lotharingien de Combinatoire, 75B, Art. 26, 11pp, 2021.
 
 - Walks with small steps in the 4D-orthant
