@@ -54,11 +54,10 @@ __Selected presentations__
 
   <a href="https://github.com/buchacm/slides/blob/main/strobl2021.pdf" target="_blank" rel="noopener"> [slides] </a> Séminaire de Calcul Formel, Sorbonne Université, Paris, and INRIA Saclay, Palaiseau, France, Online, April 2021
 
-   - Inhomogeneous lattice walks
+- Inhomogeneous lattice walks
 
   <a href="https://github.com/buchacm/slides/blob/main/bern2019.pdf" target="_blank" rel="noopener"> [slides] </a>
   SIAM AG 2019, Bern, Switzerland, July 2019
 
-  __Posters__
+__Posters__
 
-  - 
