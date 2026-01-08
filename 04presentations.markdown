@@ -13,10 +13,13 @@ __Selected presentations__
 - Separated variables on plane algebraic curves
 
   <a href="https://github.com/buchacm/slides/blob/main/inria2025separatedVariables.pdf" target="_blank" rel="noopener"> [slides] </a>
-  AROMATH seminar, INRIA Centre at Université Côte d’Azur, Sophia Antipolis, France, 2025
+  AROMATH seminar, INRIA Centre at Université Côte d’Azur, Sophia Antipolis, France, November 2025
 
   <a href="https://github.com/buchacm/slides/blob/main/aca2025separatedVariables.pdf" target="_blank" rel="noopener"> [slides] </a>
-  Applications of computer algebra -- ACA 2025, Heraklion, Greece, 2025
+  Applications of computer algebra -- ACA 2025, Heraklion, Greece, July 2025
+
+  <a href="https://github.com/buchacm/slides/blob/main/inria2025separatedVariables.pdf" target="_blank" rel="noopener"> [slides] </a>
+  Arbeitsgemeinschaft Diskrete Methematik, Universit\"at Wien, Vienna, Austria, January 2025
 
 - Separating variables in bivariate polynomial ideals: the local case
 
