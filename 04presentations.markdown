@@ -64,7 +64,7 @@ __Posters__
 
 - On the problem of computing intersections of fields
 
-  <a href="https://github.com/buchacm/slides/blob/main/posterBuchacher.pdf" target="_blank" rel="noopener"> [poster] </a>
+  <a href="https://github.com/buchacm/slides/blob/main/posterBuchacher2025.pdf" target="_blank" rel="noopener"> [poster] </a>
   CIRM, Marseille, France, 2025
 
 - Restricted Inhomogeneous Lattice Walks
