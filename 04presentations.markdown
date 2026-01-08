@@ -22,7 +22,7 @@ permalink: /presentations/
 
 - Separating variables in bivariate polynomial ideals
 
-  <a href="https://github.com/buchacm/slides/blob/main/strobl2021.pdf" target="_blank" rel="noopener"> [slides] </a> Séminaire de Calcul Formel, Sorbonne Université, Paris, and Inria Saclay, Palaiseau, France, Online, April 2021
+  <a href="https://github.com/buchacm/slides/blob/main/strobl2021.pdf" target="_blank" rel="noopener"> [slides] </a> Séminaire de Calcul Formel, Sorbonne Université, Paris, and INRIA Saclay, Palaiseau, France, Online, April 2021
 
 - The orbit-sum method for higher order equations
 
