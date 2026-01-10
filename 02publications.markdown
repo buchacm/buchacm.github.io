@@ -4,7 +4,7 @@ title: Research
 permalink: /research/
 ---
 
-List of papers classified by topics. Some papers are listed several times as they cover two or more major topics.  The full list of papers in reverse chronological order is in the CV and on my Google Scholar profile.
+List of papers classified by topics. Some papers are listed several times as they cover more than one topic. The full list of papers in reverse chronological order is found in the CV and on my Google Scholar profile.
 
 Elimination Theory, The Newton-Puiseux Algorithm, Tropical Geometry 
 
