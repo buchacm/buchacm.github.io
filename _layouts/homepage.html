@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: 'en' }}">
+  
+{%- include head.html -%}
+  
+  <body>
+    {%- include header.html -%}
+
+    <div class="wrapper">
+    <style>
+      .grid-container {
+      display: grid;
+      grid-template-columns: 30% 70%;
+      }
+    </style>
+
+    <div class="grid-container">
+      
+      <div>
+        <br>
+        <img src="cat.jpg" width="200">
+        <br>
+        <br>
+        <b> jana.vrablikova </b> at <b> inria.fr </b><br>
+        <a href="http://arxiv.org/a/vrablikova_j_1">ArXiv</a>, <a href="https://orcid.org/0000-0002-3008-9275">ORCID</a>
+      </div>
+        
+      <div>
+        <br>
+        {{ content }}
+      </div>
+
+    </div>
+        
+    <!--<script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>-->
+    </div>
+
+    {%- include footer.html -%}
+    
+  </body>
+
+</html>
+
+
