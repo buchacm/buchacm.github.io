@@ -7,7 +7,8 @@
 
     <div class="footer-col-wrapper">
       <div class="footer-col">
-      {%- if site.author %}
+     {% comment %}
+        {%- if site.author %}
         <ul class="contact-list">
           {% if site.author.name -%}
             <li class="p-name">{{ site.author.name | escape }}</li>
@@ -17,6 +18,8 @@
           {%- endif %}
         </ul>
       {%- endif %}
+     {% end comment %}
+     manfredi dot buchacher at gmail dot com 
       </div>
       <div class="footer-col">
         <p>{{ site.description | escape }}</p>
