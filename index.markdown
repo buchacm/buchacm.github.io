@@ -2,8 +2,7 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-layout: page
-title: About
+layout: home
 ---
 
 I am a mathematician who works at the <a href="https://www.jku.at/en/" target="_blank" rel="noopener"> Johannes Kepler University Linz </a> as a postdoctorial researcher. I am currently sponsored by the <a href="https://www.jku.at/en/linz-institute-of-technology/" target="_blank" rel="noopener"> Linz Institute of Technology </a> and the State of Upper Austria with the LIT Young Career Award LIT-2022-11-YOU-214.    
