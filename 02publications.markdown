@@ -4,43 +4,69 @@ title: Research
 permalink: /research/
 ---
 
-List of papers classified by topics. Some papers are listed several times as they cover more than one topic. The full list of papers in reverse chronological order is found in the <a href="https://github.com/buchacm/slides/blob/main/curriculumVitae2026.pdf" target="_blank" rel="noopener"> CV </a> and on my <a href="https://scholar.google.at/citations?user=o5gRvXMAAAAJ&hl=de&oi=ao" target="_blank" rel="noopener"> Google Scholar profile. </a>
+List of papers sorted by topics. Some papers are listed several times as they cover more than one topic. The list of papers in reverse chronological order is found in the <a href="https://github.com/buchacm/slides/blob/main/curriculumVitae2026.pdf" target="_blank" rel="noopener"> CV </a> and on my <a href="https://scholar.google.at/citations?user=o5gRvXMAAAAJ&hl=de&oi=ao" target="_blank" rel="noopener"> Google Scholar profile. </a>
 
 
-Elimination Theory, The Newton-Puiseux Algorithm, Tropical Geometry 
+__Elimination theory__
 
-- the Newton-Puiseux algorithm and effective algebraic series
+- The Newton-Puiseux algorithm and effective algebraic series <a href="https://www.sciencedirect.com/science/article/pii/S0021869325005642" target="_blank" rel="noopener"> [link] </a>\
+  Journal of Algebra, 688, 284-306, 2026
+
+- Separating variables in bivariate polynomial ideals <a href="https://dl.acm.org/doi/epdf/10.1145/3373207.3404028" target="_blank" rel="noopener"> [link] </a>\
+ with Manuel Kauers and Gleb Pogudin\
+ Proceedings of the 45th International Symposium on Symbolic and Algebraic Computation, 54 - 61, 2020 
+
+- Separating variables in bivariate polynomial ideals: the local case <a href="https://arxiv.org/abs/2404.10377" target="_blank" rel="noopener"> [arXiv] </a>\
+
+- Separated variables on plane algebraic curves <a href="https://arxiv.org/abs/2411.08584" target="_blank" rel="noopener"> [arXiv] </a>\
+
+- On finite orbits of infinite correspondences <a href="https://arxiv.org/abs/2511.07172" target="_blank" rel="noopener"> [arXiv] </a>
+
+- On the problem of separating variables in multivariate polynomial ideals <a href="https://dl.acm.org/doi/epdf/10.1145/3666000.3669680" target="_blank" rel="noopener"> [link] </a>\
+  with Manuel Kauers\
+  Proceedings of the 49th International Symposium on Symbolic and Algebraic Computation, 100 - 107, 2024
+
+
+__Dynamical systems__ 
+
+- On finite orbits of infinite correspondences <a href="https://arxiv.org/abs/2511.07172" target="_blank" rel="noopener"> [arXiv] </a>
   
-- separating variables in bivariate polynomial ideals
-- on the problem of...
-- separating variables in bivariate polynomial ideals: the local case
-- separated variables on plane algebraic curves
--  x(1-t(x+x^{-1}))F(x;t) = x - tF(0;t) ?
 
-Dynamical Systems of Algebraic Correspondences 
+__Enumeration of lattice walks__
 
-- on finite orbits of infinite correspondonces
+- x(1-t(x+x^{-1}) F(x;t) = x - tF(0;t) <a href="https://arxiv.org/abs/2512.21753" target="_blank" rel="noopener"> [arXiv] </a>
 
-Discrete Differential Equations
+- The orbit-sum method for higher order equations <a href="https://arxiv.org/abs/2211.08175" target="_blank" rel="noopener"> [arXiv] </a>\
 
--  x(1-t(x+x^{-1}))F(x;t) = x - tF(0;t)
--  the orbit-sum method for higher order equations
-- the Newton-Puiseux algorithm and effective algebraic series
-- quadrant walks starting outside the quadrant
-- inhomogeneous restricted lattice walks
+- The Newton-Puiseux algorithm and effective algebraic series <a href="https://www.sciencedirect.com/science/article/pii/S0021869325005642" target="_blank" rel="noopener"> [link] </a>\
+  Journal of Algebra, 688, 284-306, 2026
   
-Enumeration of Restricted Lattice Walks
+- Inhomogeneous Restricted Lattice Walks <a href="https://www.mat.univie.ac.at/~slc/wpapers/FPSAC2019/75.pdf" target="_blank" rel="noopener"> [link] </a>\
+  with Manuel Kauers\
+  Séminaire Lotharingien de Combinatoire, 82B, Art. 75, 12pp, 2019.
 
--  x(1-t(x+x^{-1}))F(x;t) = x - tF(0;t)
--  the orbit-sum method for higher order equations
-- the Newton-Puiseux algorithm and effective algebraic series
-- quadrant walks starting outside the quadrant
--  4d-walks in the orthant
+- Quadrant walks starting outside the quadrant <a href="https://www.mat.univie.ac.at/~slc/wpapers/FPSAC2021/26Buchacher.pdf" target="_blank" rel="noopener"> [link] </a>\
+ with Manuel Kauers and Amélie Trotignon\
+ Séminaire Lotharingien de Combinatoire, 75B, Art. 26, 11pp, 2021.
 
-  Theses:
+- Walks with small steps in the 4D-orthant
+<a href="https://link.springer.com/article/10.1007/s00026-020-00520-5" target="_blank" rel="noopener"> [link] </a>\
+  with Sophie Hofmanninger and Manuel Kauers\
+  Annals of Combinatorics, 25, 153–166, 2021
 
-  -PhD thesis
-  -Master's thesis
+
+__Optimization__
+
+- Graph learning based on total variation minimization <a href="https://ieeexplore.ieee.org/document/8461603" target="_blank" rel="noopener"> [link] </a>\
+  with Peter Berger, Gabor Hannak and Gerald Matz\
+  Proceedings of the 2018 IEEE International Conference on Acoustics, Speech and Signal Processing, 6309-6313, 2018
+  
+
+  __Theses__
+
+  - Algorithms for the enumeration of lattice walks, PhD thesis, Johannes Kepler University Linz, 2021
+
+  - The Asymptotic Behaviour of Denumerable Markov Chains, Master's thesis, Univeristy of Vienna, 2015
   
 
 
