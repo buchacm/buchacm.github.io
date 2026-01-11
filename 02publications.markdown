@@ -22,8 +22,7 @@ __Elimination theory__
 
 - On finite orbits of infinite correspondences <a href="https://arxiv.org/abs/2511.07172" target="_blank" rel="noopener"> [arXiv] </a>
 
-- On the problem of separating variables in multivariate polynomial ideals <a href="https://dl.acm.org/doi/epdf/10.1145/3666000.3669680" target="_blank" rel="noopener"> [link] </a>\
-  with Manuel Kauers\
+- On the problem of separating variables in multivariate polynomial ideals (with Manuel Kauers) <a href="https://dl.acm.org/doi/epdf/10.1145/3666000.3669680" target="_blank" rel="noopener"> [link] </a>\
   Proceedings of the 49th International Symposium on Symbolic and Algebraic Computation, 100 - 107, 2024
 
 
@@ -36,29 +35,25 @@ __Enumeration of lattice walks__
 
 - x(1-t(x+x^{-1}) F(x;t) = x - tF(0;t) <a href="https://arxiv.org/abs/2512.21753" target="_blank" rel="noopener"> [arXiv] </a>
 
-- The orbit-sum method for higher order equations <a href="https://arxiv.org/abs/2211.08175" target="_blank" rel="noopener"> [arXiv] </a>\
+- The orbit-sum method for higher order equations (with Manuel Kauers) <a href="https://arxiv.org/abs/2211.08175" target="_blank" rel="noopener"> [arXiv] </a>\
 
 - The Newton-Puiseux algorithm and effective algebraic series <a href="https://www.sciencedirect.com/science/article/pii/S0021869325005642" target="_blank" rel="noopener"> [link] </a>\
   Journal of Algebra, 688, 284-306, 2026
   
-- Inhomogeneous Restricted Lattice Walks <a href="https://www.mat.univie.ac.at/~slc/wpapers/FPSAC2019/75.pdf" target="_blank" rel="noopener"> [link] </a>\
-  with Manuel Kauers\
+- Inhomogeneous Restricted Lattice Walks (with Manuel Kauers) <a href="https://www.mat.univie.ac.at/~slc/wpapers/FPSAC2019/75.pdf" target="_blank" rel="noopener"> [link] </a>\
   Séminaire Lotharingien de Combinatoire, 82B, Art. 75, 12pp, 2019.
 
-- Quadrant walks starting outside the quadrant <a href="https://www.mat.univie.ac.at/~slc/wpapers/FPSAC2021/26Buchacher.pdf" target="_blank" rel="noopener"> [link] </a>\
- with Manuel Kauers and Amélie Trotignon\
+- Quadrant walks starting outside the quadrant (with Manuel Kauers and Amélie Trotignon) <a href="https://www.mat.univie.ac.at/~slc/wpapers/FPSAC2021/26Buchacher.pdf" target="_blank" rel="noopener"> [link] </a>\
  Séminaire Lotharingien de Combinatoire, 75B, Art. 26, 11pp, 2021.
 
-- Walks with small steps in the 4D-orthant
+- Walks with small steps in the 4D-orthant (with Sophie Hofmanninger and Manuel Kauers)
 <a href="https://link.springer.com/article/10.1007/s00026-020-00520-5" target="_blank" rel="noopener"> [link] </a>\
-  with Sophie Hofmanninger and Manuel Kauers\
   Annals of Combinatorics, 25, 153–166, 2021
 
 
 __Optimization__
 
-- Graph learning based on total variation minimization <a href="https://ieeexplore.ieee.org/document/8461603" target="_blank" rel="noopener"> [link] </a>\
-  with Peter Berger, Gabor Hannak and Gerald Matz\
+- Graph learning based on total variation minimization (with Peter Berger, Gabor Hannak and Gerald Matz) <a href="https://ieeexplore.ieee.org/document/8461603" target="_blank" rel="noopener"> [link] </a>\
   Proceedings of the 2018 IEEE International Conference on Acoustics, Speech and Signal Processing, 6309-6313, 2018
   
 
