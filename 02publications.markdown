@@ -15,11 +15,11 @@ __Elimination theory__
 
 - _Separating variables in bivariate polynomial ideals,_ with Manuel Kauers and Gleb Pogudin, Proceedings of the 45th International Symposium on Symbolic and Algebraic Computation, 54 - 61, 2020 <a href="https://dl.acm.org/doi/epdf/10.1145/3373207.3404028" target="_blank" rel="noopener"> [link] </a>
 
-  We present an algorithm which for any given ideal $I\subseteq\mathbb{K}[x,y]$ finds all elements of $I$ that have the form $f(x) − g(y)$, i.e., all elements in which no monomial is a multiple of $xy.$
+  We present an algorithm which for any given ideal $I\subseteq\mathbb{K}[x,y]$ finds all elements of $I$ that have the form $f(x) − g(y)$, i.e., all elements in which no monomial is a multiple of $xy$.
 
 - _Separating variables in bivariate polynomial ideals: the local case,_ 2024 <a href="https://arxiv.org/abs/2404.10377" target="_blank" rel="noopener"> [arXiv] </a>
 
-  We present a semi-algorithm which for any irreducible $p\in\mathbb{K}[x,y]$ finds all elements of $\mathbb{K}(x) + \mathbb{K}(y)$ that are of the form $qp$ for    some $q\in\mathbb{K}(x,y)$ whose denominator is not divisible by $p.$
+  We present a semi-algorithm which for any irreducible $p\in\mathbb{K}[x,y]$ finds all elements of $\mathbb{K}(x) + \mathbb{K}(y)$ that are of the form $qp$ for    some $q\in\mathbb{K}(x,y)$ whose denominator is not divisible by $p$.
 
 - _Separated variables on plane algebraic curves, 2024_ <a href="https://arxiv.org/abs/2411.08584" target="_blank" rel="noopener"> [arXiv] </a>
 
