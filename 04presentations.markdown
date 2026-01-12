@@ -4,22 +4,18 @@ title: Presentations
 permalink: /presentations/
 ---
 
-__Selected presentations__
+__Selected talks__
 
 - Separated variables on plane algebraic curves
 
   <a href="https://github.com/buchacm/slides/blob/main/inria2025separatedVariables.pdf" target="_blank" rel="noopener"> [slides] </a>
-  AROMATH Seminar, INRIA Centre at Université Côte d’Azur, France, 2025
-
+  AROMATH Seminar, INRIA Centre at Université Côte d’Azur, France, 2025\
   <a href="https://github.com/buchacm/slides/blob/main/oemg2025separatedVariables.pdf" target="_blank" rel="noopener"> [slides] </a>
-  ÖMG - DMV Annual Meeting, Linz, Austria, 2025
-
+  ÖMG - DMV Annual Meeting, Linz, Austria, 2025\
   <a href="https://github.com/buchacm/slides/blob/main/aca2025separatedVariables.pdf" target="_blank" rel="noopener"> [slides] </a>
-  Applications of Computer Algebra, Heraklion, Greece, 2025
-
+  Applications of Computer Algebra, Heraklion, Greece, 2025\
   <a href="https://github.com/buchacm/slides/blob/main/toulouse2025separatedVariables.pdf" target="_blank" rel="noopener"> [slides] </a>
-  Number Theory Seminar, Université Paul Sabatier, Toulouse, France, 2025
-
+  Number Theory Seminar, Université Paul Sabatier, Toulouse, France, 2025\
   <a href="https://github.com/buchacm/slides/blob/main/vienna2025separatedVariables.pdf" target="_blank" rel="noopener"> [slides] </a>
   Arbeitsgemeinschaft Diskrete Methematik, University of Vienna, Austria, 2025
 
@@ -34,7 +30,7 @@ __Selected presentations__
 
 - x(1-t(x+x^{-1})F(x;t) = x - tF(0;t)
 
-  <a href="https://github.com/buchacm/slides/blob/main/ricamIntro.pdf" target="_blank" rel="noopener"> [slides] </a> Symbolic Computation Seminar, RICAM ÖAW, Austria, 2023
+  <a href="https://github.com/buchacm/slides/blob/main/ricamIntro.pdf" target="_blank" rel="noopener"> [slides] </a> Symbolic Computation Seminar, RICAM, Austria, 2023
 
 - Quadrant walks starting outside the quadrant
 
