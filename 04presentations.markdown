@@ -6,7 +6,7 @@ permalink: /presentations/
 
 __Selected talks__
 
-- Separated variables on plane algebraic curves
+- _Separated variables on plane algebraic curves_
 
   <a href="https://github.com/buchacm/slides/blob/main/inria2025separatedVariables.pdf" target="_blank" rel="noopener"> [slides] </a>
   AROMATH Seminar, INRIA Centre at Université Côte d’Azur, France, 2025\
@@ -19,38 +19,38 @@ __Selected talks__
   <a href="https://github.com/buchacm/slides/blob/main/vienna2025separatedVariables.pdf" target="_blank" rel="noopener"> [slides] </a>
   Arbeitsgemeinschaft Diskrete Methematik, University of Vienna, Austria, 2025
 
-- Separating variables in bivariate polynomial ideals: the local case
+- _Separating variables in bivariate polynomial ideals: the local case_
 
   <a href="https://github.com/buchacm/slides/blob/main/admont2023separatingVariablesUpdate.pdf" target="_blank" rel="noopener"> [slides] </a> SFB AEC Status Seminar, Admont, Austria, 2023
 
-- The Newton-Puiseux algorithm and effective algebraic series
+- _The Newton-Puiseux algorithm and effective algebraic series_
 
   <a href="https://github.com/buchacm/slides/blob/main/aca2023newtonPuiseux.pdf" target="_blank" rel="noopener"> [slides] </a>
   Applications of Computer Algebra, Warsaw, Poland, 2023
 
-- x(1-t(x+x^{-1})F(x;t) = x - tF(0;t)
+- $x(1-t(x+x^{-1})F(x;t) = x - tF(0;t)$
 
   <a href="https://github.com/buchacm/slides/blob/main/ricamIntro.pdf" target="_blank" rel="noopener"> [slides] </a> Symbolic Computation Seminar, RICAM, Austria, 2023
 
-- Quadrant walks starting outside the quadrant
+- _Quadrant walks starting outside the quadrant_
 
   <a href="https://github.com/buchacm/slides/blob/main/FPSAC_Buchacher.pdf" target="_blank" rel="noopener"> [slides] </a>
   Formal Power Series and Algebraic Combinatorics, Ramat Gan, Israel, Online, 2022
 
-- The orbit-sum method for higher order equations
+- _The orbit-sum method for higher order equations_
 
   <a href="https://github.com/buchacm/slides/blob/main/ACA2021.pdf" target="_blank" rel="noopener"> [slides] </a>
   Applications of Computer Algebra, Online, 2021
 
-- Algorithms for the enumeration of lattice walks
+- _Algorithms for the enumeration of lattice walks_
   
   <a href="https://github.com/buchacm/slides/blob/main/rigorosumBuchacher.pdf" target="_blank" rel="noopener"> [slides] </a> PhD defence, JKU Linz, Austria, 2021
 
-- Separating variables in bivariate polynomial ideals
+- _Separating variables in bivariate polynomial ideals_
 
   <a href="https://github.com/buchacm/slides/blob/main/strobl2021.pdf" target="_blank" rel="noopener"> [slides] </a> Séminaire de Calcul Formel, Sorbonne Université and INRIA Saclay, France, Online, 2021
 
-- Inhomogeneous lattice walks
+- _Inhomogeneous lattice walks_
 
   <a href="https://github.com/buchacm/slides/blob/main/bern2019.pdf" target="_blank" rel="noopener"> [slides] </a>
   SIAM Algebraic Geometry, Bern, Switzerland, 2019
@@ -58,12 +58,12 @@ __Selected talks__
 
 __Posters__
 
-- On the problem of computing intersections of fields
+- _On the problem of computing intersections of fields_
 
   <a href="https://github.com/buchacm/slides/blob/main/posterBuchacher2025.pdf" target="_blank" rel="noopener"> [poster] </a>
   CIRM, Marseille, France, 2025
 
-- Inhomogeneous restricted lattice walks
+- _Inhomogeneous restricted lattice walks_
 
   <a href="https://github.com/buchacm/slides/blob/main/posterBuchacher2019.pdf" target="_blank" rel="noopener"> [poster] </a>
   Formal Power Series and Algebraic Combinatorics, Ljubljana, Slovenia, 2019
