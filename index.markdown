@@ -9,5 +9,3 @@ I am a mathematician who works at the <a href="https://www.jku.at/en/" target="_
 
 I work on problems that arise in __algorithmic enumerative combinatorics__. I connect __enumerative combinatorics__ with __constructive algebra__, __effective algebraic geometry__, __differential algebra__ and __dynamical systems__ of algebraic correspondences. 
 
-Campus address: JKU Linz - Science Park 2 - 3rd Floor - Office 373-2\
-Email address: __manfredi__ dot __buchacher__ at __gmail__ dot __com__
