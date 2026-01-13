@@ -11,7 +11,7 @@ __Elimination theory__
 
 - _The Newton-Puiseux algorithm and effective algebraic series,_ Journal of Algebra, 688, 284-306, 2026 <a href="https://www.sciencedirect.com/science/article/pii/S0021869325005642" target="_blank" rel="noopener"> [link] </a>
 
-  <font size="1">We explain how to encode an algebraic series by finite data and how to do effective arithmetic on the level of these encodings. The reasoning is based on the Newton-Puiseux algorithm and an effective equality test for algebraic series. Furthermore, we discuss how to derive information about the support of an algebraic series. Based thereon, we show how to identify the polynomial and rational solutions of a polynomial equation.</font>
+  We explain how to encode an algebraic series by finite data and how to do effective arithmetic on the level of these encodings. The reasoning is based on the Newton-Puiseux algorithm and an effective equality test for algebraic series. Furthermore, we discuss how to derive information about the support of an algebraic series. Based thereon, we show how to identify the polynomial and rational solutions of a polynomial equation. </sub>
 
 - _Separating variables in bivariate polynomial ideals,_ with Manuel Kauers and Gleb Pogudin, Proceedings of the 45th International Symposium on Symbolic and Algebraic Computation, 54 - 61, 2020 <a href="https://dl.acm.org/doi/epdf/10.1145/3373207.3404028" target="_blank" rel="noopener"> [link] </a>
 
@@ -66,9 +66,12 @@ __Enumeration of lattice walks__
 
   We provide some first experimental data about generating functions of restricted lattice walks with small steps in $\mathbb{N}^4$.
 
+
 __Optimization__
 
 - _Graph learning based on total variation minimization,_ with Peter Berger, Gabor Hannak and Gerald Matz,Proceedings of the 2018 IEEE International Conference on Acoustics, Speech and Signal Processing, 6309-6313, 2018 <a href="https://ieeexplore.ieee.org/document/8461603" target="_blank" rel="noopener"> [link] </a>
+
+  We consider the problem of learning the topology of a graph from a given set of smooth graph signals. We construct a weighted adjacency matrix that best explains the data in the sense of achieving the smallest graph total variation. For the case of noisy measurements of the graph signals we propose a scheme that simultaneously denoises the signals and learns the graph adjacency matrix. Our method allows for a direct control of the number of edges and of the weighted node degree. Numerical experiments demonstrate that our graph learning scheme is well suited for community detection.
   
 
 __Theses__
