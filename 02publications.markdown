@@ -10,7 +10,7 @@ List of papers sorted by topics. Some papers are listed several times as they co
 __Elimination theory__
 
 - _The Newton-Puiseux algorithm and effective algebraic series,_ Journal of Algebra, 688, 284-306, 2026 <a href="https://www.sciencedirect.com/science/article/pii/S0021869325005642" target="_blank" rel="noopener"> [link] </a>\
-  <sub> <p style="line-height:0.8"> We explain how to encode an algebraic series by finite data and how to do effective arithmetic on the level of these encodings. The reasoning is based on the Newton-Puiseux algorithm and an effective equality test for algebraic series. We also discuss how to derive information about the support of an algebraic series. Based thereon, we show how to identify the polynomial and rational solutions of a polynomial equation. </p> </sub> 
+  <sub> We explain how to encode an algebraic series by finite data and how to do effective arithmetic on the level of these encodings. The reasoning is based on the Newton-Puiseux algorithm and an effective equality test for algebraic series. We also discuss how to derive information about the support of an algebraic series. Based thereon, we show how to identify the polynomial and rational solutions of a polynomial equation. </sub> 
 
 - _Separating variables in bivariate polynomial ideals,_ with Manuel Kauers and Gleb Pogudin, Proceedings of the 45th International Symposium on Symbolic and Algebraic Computation, 54 - 61, 2020 <a href="https://dl.acm.org/doi/epdf/10.1145/3373207.3404028" target="_blank" rel="noopener"> [link] </a>\
   <sub> We present an algorithm which for any given ideal $I\subseteq\mathbb{K}[x,y]$ finds all elements of $I$ that have the form $f(x) − g(y)$, that is, all elements in which no monomial is a multiple of $xy$. </sub>
@@ -62,7 +62,8 @@ __Optimization__
 
 __Theses__
 
-- _Algorithms for the enumeration of lattice walks,_ PhD thesis, Johannes Kepler University Linz, 2021 <a href="https://epub.jku.at/urn/urn:nbn:at:at-ubl:1-46037" target="_blank" rel="noopener"> [link] </a>
+- _Algorithms for the enumeration of lattice walks,_ PhD thesis, Johannes Kepler University Linz, 2021 <a href="https://epub.jku.at/urn/urn:nbn:at:at-ubl:1-46037" target="_blank" rel="noopener"> [link] </a>\
+  <sub> The dissertation (almost literally) includes 3 of the published papers: _Inhomogeneous restricted lattice walks_, _Separating variables in bivariate polynomial ideals_, and _Quadrant walks starting outside the quadrant_. Each of them constitutes a chapter, and each of these chapters comes with an extended introduction or appendix which carefully motivates the problem or in detail explains the underlying computations. Much of the paper $x(1-(x+x^{-1}))F(x;t) = x - F(0;t)$ is found in the chapter on preliminaries, and many of the ideas that underly _The orbit-sum method for higher-order equations_ and _The Newton-Puiseux algorithm and effective algebraic series_ are discussed in the chapter on time-inhomogeneous lattice walks. The classification of time-inhomogeneous lattice walks in the quarter plane therein has not been published elsewhere and hence can only be found there.</sub>
 
 - _The asymptotic behaviour of denumerable Markov chains,_ Master's thesis, University of Vienna, 2015 <a href="https://utheses.univie.ac.at/detail/34846" target="_blank" rel="noopener"> [link] </a>
   
