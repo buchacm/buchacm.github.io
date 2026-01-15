@@ -51,7 +51,7 @@ __Enumeration of lattice walks__
   <sub> We investigate a functional equation which resembles the functional equation for the generating function of a lattice walk model for the quarter plane. The interesting feature of this equation is that its orbit sum is zero while its solution is not algebraic. The solution can be interpreted as the generating function of lattice walks in $\mathbb{Z}^2$ starting at $(-1,-1)$ and subject to the restriction that the coordinate axes can be crossed only in one direction. We also consider certain variants of the equation, all of which seem to have transcendental solutions. In one case, the solution is perhaps not even D-finite. </sub>
 
 - _Walks with small steps in the 4D-orthant,_ with Sophie Hofmanninger and Manuel Kauers, Annals of Combinatorics, 25, 153–166, 2021 <a href="https://link.springer.com/article/10.1007/s00026-020-00520-5" target="_blank" rel="noopener"> [link] </a>\
-  <sub> We provide some first experimental data about generating functions of restricted lattice walks with small steps in $\mathbb{N}^4$. <\sub>
+  <sub> We provide some first experimental data about generating functions of restricted lattice walks with small steps in $\mathbb{N}^4$. </sub>
 
 
 __Optimization__
