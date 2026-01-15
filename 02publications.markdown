@@ -19,11 +19,11 @@ __Elimination theory__
 
 - _Separating variables in bivariate polynomial ideals: the local case,_ 2024 <a href="https://arxiv.org/abs/2404.10377" target="_blank" rel="noopener"> [arXiv] </a>
 
-  We present a semi-algorithm which for any irreducible $p\in\mathbb{K}[x,y]$ finds all elements of $\mathbb{K}(x) + \mathbb{K}(y)$ that are of the form $qp$ for some $q\in\mathbb{K}(x,y)$ whose denominator is not divisible by $p$.
+  We present a semi-algorithm which for any irreducible polynomial $p\in\mathbb{K}[x,y]$ finds all elements of $\mathbb{K}(x) + \mathbb{K}(y)$ whose numerator is a multiple of $p$.
 
 - _Separated variables on plane algebraic curves, 2024_ <a href="https://arxiv.org/abs/2411.08584" target="_blank" rel="noopener"> [arXiv] </a>
 
-  We investigate the problem of deciding whether the restriction of a rational function $r\in\mathbb{K}(x,y)$ to the curve associated with an irreducible polynomial $p\in\mathbb{K}[x,y]$ is the restriction of an element  of $\mathbb{K}(x)+\mathbb{K}(y)$. We present an algorithm and a conjectural semi-algorithm for finding such elements depending on whether $p$ has a non-trivial rational multiple in $\mathbb{K}(x) + \mathbb{K}(y)$ or not.
+  We investigate the problem of deciding whether the restriction of a rational function $r\in\mathbb{K}(x,y)$ to the curve associated with an irreducible polynomial $p\in\mathbb{K}[x,y]$ is the restriction of an element of $\mathbb{K}(x)+\mathbb{K}(y)$. We present an algorithm and a conjectural semi-algorithm for finding such elements depending on whether $p$ has a non-trivial rational multiple in $\mathbb{K}(x) + \mathbb{K}(y)$ or not.
 
 - _On finite orbits of infinite correspondences, 2025_ <a href="https://arxiv.org/abs/2511.07172" target="_blank" rel="noopener"> [arXiv] </a>
 
