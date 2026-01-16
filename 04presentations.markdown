@@ -61,7 +61,7 @@ __Posters__
 - _On the problem of computing intersections of fields_
 
   <a href="https://github.com/buchacm/slides/blob/main/posterBuchacher2025.pdf" target="_blank" rel="noopener"> [poster] </a>
-  CIRM, Marseille, France, 2025
+  Galois differential theories and transcendence, CIRM, Marseille, France, 2025
 
 - _Inhomogeneous restricted lattice walks_
 
