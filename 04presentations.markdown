@@ -4,6 +4,8 @@ title: Presentations
 permalink: /presentations/
 ---
 
+List of selected talks and poster presentations. The complete list is found in the <a href="https://github.com/buchacm/slides/blob/main/curriculumVitae2026.pdf" target="_blank" rel="noopener"> CV </a>.
+
 __Selected talks__
 
 - _Separated variables on plane algebraic curves_
