@@ -4,6 +4,8 @@ title: Software
 permalink: /software/
 ---
 
+The software provided on this web site is free. You can redistribute it and/or modify it under the terms of the <a href="https://www.gnu.org/licenses/gpl-3.0.html" target="_blank" rel="noopener"> GNU General Public License </a> as published by the Free Software Foundation.
+
 - <a href="https://github.com/buchacm/newtonPuiseuxAlgorithm.git" target="_blank" rel="noopener"> [newtonPuiseux.m]</a> An implementation of the (multivariate) Newton-Puiseux algorithm. It accompanies the paper _The Newton-Puiseux algorithm and effective algebraic series._
 
 - <a href="https://github.com/buchacm/nearSeparation.git" target="_blank" rel="noopener"> [nearSeparate.m]</a> An implementation of a semi-algorithm that takes an (irreducible) polynomial $p(x,y)\in\mathbb{C}[x,y]$ as input and outputs a description of all elements of $\mathbb{C}(x) + \mathbb{C}(y)$ whose numerator is a multiple of $p$. The semi-algorithm is described in the paper _Separating variables in bivariate polynomial ideals: the local case._
