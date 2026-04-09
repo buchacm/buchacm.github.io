@@ -27,7 +27,7 @@ __Elimination theory__
 - _On finite orbits of infinite correspondences,_ 2025 <a href="https://arxiv.org/abs/2511.07172" target="_blank" rel="noopener"> [arXiv] </a>\
   <sub> We collect results about algebraic correspondences and adapt them to the setting of correspondences on projective lines. The focus lies on finite orbits of algebraic correspondences. The main result is a field theoretic characterization of the (in)finiteness of the number of finite orbits. </sub>
 
-- _On the problem of separating variables in multivariate polynomial ideals,_ with Manuel Kauers, Proceedings of the 49th International Symposium on Symbolic and Algebraic Computation, 100 - 107, 2024 <a href="https://dl.acm.org/doi/epdf/10.1145/3666000.3669680" target="_blank" rel="noopener"> [link] </a>
+- _On the problem of separating variables in multivariate polynomial ideals,_ with Manuel Kauers, Proceedings of the 49th International Symposium on Symbolic and Algebraic Computation, 100 - 107, 2024 <a href="https://dl.acm.org/doi/epdf/10.1145/3666000.3669680" target="_blank" rel="noopener"> [link] </a>\
   <sub> For a given ideal $I \subseteq \mathbb{K}[x_1,\dots,x_n,y_1,\dots,y_m]$ in a polynomial ring with $n+m$ variables, we want to find all elements that can be written as $f - g$ for some $f \in \mathbb{K}[x_1,\dots,x_n]$ and some $g\in\mathbb{K}\in \mathbb{K}[y_1,\dots,y_m]$, i.e., all elements of $I$ that contain no term involving at the same time one of the $x_1,\dots,x_n$ and one of the $y_1,\dots,y_m$. For principal ideals and for ideals of dimension zero, we give algorithms that compute all these polynomials in a finite number of steps. </sub>
 
 
