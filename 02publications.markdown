@@ -4,8 +4,7 @@ title: Research
 permalink: /research/
 ---
 
-List of papers sorted by topics. Some papers are listed several times as they cover more than one topic. The list of papers in reverse chronological order is found in the <a href="https://github.com/buchacm/slides/blob/main/curriculumVitae2026.pdf" target="_blank" rel="noopener"> CV </a> and on my <a href="https://scholar.google.at/citations?user=o5gRvXMAAAAJ&hl=de&oi=ao" target="_blank" rel="noopener"> Google Scholar profile. </a> A summary of my research highlights is given in my research statement.
-
+List of papers sorted by topics. Some papers are listed several times as they cover more than one topic. The list of papers in reverse chronological order is found in the <a href="https://github.com/buchacm/slides/blob/main/curriculumVitae2026.pdf" target="_blank" rel="noopener"> CV </a> and on my <a href="https://scholar.google.at/citations?user=o5gRvXMAAAAJ&hl=de&oi=ao" target="_blank" rel="noopener"> Google Scholar profile. </a> A summary of my research highlights is given in my <a href="https://github.com/buchacm/slides/blob/main/researchStatementBuchacher.pdf" target="_blank" rel="noopener"> research statement. </a>
 
 __Elimination theory__
 
